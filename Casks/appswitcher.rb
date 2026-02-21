@@ -3,7 +3,7 @@ cask "appswitcher" do
   sha256 "8966acd015781bc111515bcf83da141ef7024e896ef19b0468709dfe688d2960"
 
   # 替換：請將下方 url 換成你第一階段複製的實際下載連結
-  url "https://github.com/Liaoyork/AppSwitcher/archive/refs/tags/v2.1.0.zip"
+  url "https://github.com/Liaoyork/AppSwitcher/releases/download/v#{version}/AppSwitcher.zip"
   
   name "AppSwitcher"
   desc "快速切換應用程式的工具"
