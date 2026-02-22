@@ -1,6 +1,6 @@
 cask "appswitcher" do
-  version "2.1.0" # 替換：請改成你 GitHub Release 設定的版本號
-  sha256 "78adfb74a69bc7ca9d6fb2cbd14afd2f62cdf689298605a3edab98150df9d4ff"
+  version "2.2.0" # 替換：請改成你 GitHub Release 設定的版本號
+  sha256 "427721e541282b3199ff26b905b4fc6c6dce4f9ad045b807ff89bb6aa7024225"
 
   # 替換：請將下方 url 換成你第一階段複製的實際下載連結
   url "https://github.com/Liaoyork/AppSwitcher/releases/download/v#{version}/AppSwitcher.zip"
